@@ -8,4 +8,6 @@ const date = moment(now).subtract(1, 'days').format()
 ```
 return 
 
+<p align="center">
 <img src="img/return-date.png">
+</p>
